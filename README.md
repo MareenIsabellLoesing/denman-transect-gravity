@@ -1,6 +1,7 @@
 # Denman Transect Gravity Processing
 
 Python notebook for processing ground-based gravity observations collected during the Denman Terrestrial Campaign in East Antarctica in 2023–2024 used in 
+
 **Lösing, M., Aitken, A., Field, M., MacKie, E., & Li, L. (2026). Gravity topography modeling of the Denman Glacier region using a geostatistical approach. The Cryosphere, 20(10), 5629-5652. https://doi.org/10.5194/tc-20-5629-2026**
 
 The workflow ties Scintrex CG-5 relative readings to the Casey Station gravity reference and calculates gravity disturbances along the Denman Glacier transect.
