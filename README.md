@@ -13,7 +13,7 @@ The workflow ties Scintrex CG-5 relative readings to the Casey Station gravity r
 3. Estimate instrument drift from repeated observations at Casey Station and three Bunger Hills control locations.
 4. Replace the internal CG-5 tidal correction with a new calculated correction.
 5. Subtract WGS84 normal gravity evaluated with Boule at each observation's latitude and ellipsoidal height.
-6. Estimate residual temporal drift from repeated observations at master Site 5 and remove the fitted change relative to the first master-site observation epoch.
+6. Estimate residual temporal drift from repeated observations at master Site 5.
 7. Export site coordinates, heights, and corrected gravity disturbances to CSV.
 
 ## Getting started
