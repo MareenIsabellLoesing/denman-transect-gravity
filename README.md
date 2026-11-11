@@ -49,7 +49,7 @@ Source data are licensed under [Creative Commons Attribution 4.0 International](
 | `Easting_m` | Projected easting in the Antarctic coordinate system defined in the notebook | m |
 | `Northing_m` | Projected northing in the same coordinate system | m |
 | `Longitude` | Site longitude | degrees east |
-| `Latitude` | Site latitude | degrees north; negative in Antarctica |
+| `Latitude` | Site latitude | degrees north |
 | `Gravity_disturbance_mGal` | Gravity disturbance | mGal |
 | `Ellipsoidal_height_m` | Site height above the reference ellipsoid | m |
 
